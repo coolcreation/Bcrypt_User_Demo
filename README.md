@@ -22,7 +22,7 @@ URL=Your_username_and_password_mongodb_connection_string
 ```
 
 
-**3. For frontend React using Vite, from the root of JoiDemo:**
+**3. For frontend React using Vite, from the root of `Bcrypt_User_Demo`:**
 ```sh
 cd frontend
 npm install      # installs node modules as we don't upload those to Github
@@ -31,7 +31,7 @@ npm run dev
 ```
 
  
-**4. For backend Express, from the root of JoiDemo:**
+**4. For backend Express, from the root of `Bcrypt_User_Demo`:**
 
 
 ```sh
