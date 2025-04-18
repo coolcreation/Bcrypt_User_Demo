@@ -38,7 +38,7 @@ npm run dev
 cd backend
 npm install
 npm start
-# Nodemon package listens to changes on server.js on: http://localhost:5000/
+# Nodemon package listens to changes on server.js on: http://localhost:8000/
 ```
 
 
